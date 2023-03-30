@@ -9,16 +9,16 @@ Location:
     - location: projects/ogc_project_thermal_inspection_tool/
     - repo: https://github.com/OGC-dustin/ogc_project_thermal_inspection_tool
 - Deployment:
-    - location: 
+    - location: project using nrtps and basic application
     - repo: 
 - Application
-    - location: 
+    - location: [ basic application operation modes ]
     - repo(s): 
 - Libraries
-    - location: 
+    - location: [ nrtps os, graphical management,  ]
     - repo(s): 
 - Firmware Drivers ( Provides hardware specific support in terms of interfacing, sequences, protocols, preprocessing, etc. ):
-    - location: 
+    - location: [ oled, encoder, color camera, ir camera, lidar, neopixel ]
     - repo(s): 
 - Firmware CSP ( Chip Support Package - provides hardware specific manufacturer support for family of controllers ):
     - location: 
