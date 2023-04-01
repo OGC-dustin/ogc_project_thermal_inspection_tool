@@ -1,4 +1,10 @@
 Monday 20230327 ( 2 hours )[ 2 hours ]
-    ( 2 hours ) 1930 - 2130, PLANNING, startingproject planning and collection of components
-Tuesday 20230328 (  hours )[  hours ]
-    (  hours ) 0000 - 0000,PLANNING, pin resource planning and hardware description layer
+    ( 2 hours ) 1930 - 2130, PLANNING, starting project planning and collection of components
+Tuesday 20230328 ( 2 hours )[ 4 hours ]
+    ( 2 hours ) 1900 - 2100, PLANNING, pin resource planning
+Wednesday 20230329 ( 4 hours)[ 8 hours ]
+    ( 4 hours ) 0600 - 1000, FIRMWARE, hardware description layer and project readme updates
+Thursday 20230330 ( 4 hours )[ 12 hours ]
+    ( 4 hours ) 1700 - 2100, FIRMWARE, CCS project with NRTPS core and confirming RGB LED control ( blink example compiled ), still need monotonic clock and demo app task to start building upon.
+Friday 20230331 ( 4 hours )[ 16 hours ]
+    ( 4 hours ) 0500 - 0900, HARDWARE, create milestones and build UI daughter board, basic electrical test complete with no electrical shorts

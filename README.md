@@ -39,3 +39,20 @@ Use cases:
 - Color reflection analysis ( including IR light source )
 
 This project is also acting as a demonstration project illustrating layered development for speed and maintainability.
+
+---
+Milestones:
+- ( COMPLETE 20230330 ) Blink LED - Prove you have control over GPIO and code is running
+- UI Board - OLED, SDCard, Encoder, RGB LED
+    - build UI board
+    - set up encoder interrupts, driver ( track position, direction, etc. )
+    - set up rgb led status indicator ( gpio versus pwm control and driver for color mixing, library to drive patterns, color fades, etc. )
+    - set up oled driver ( init, reset, draw primitives, etc. )
+    - set up sd card driver ( file format?? )
+- Sensor Board - RGB Camera, IR Camera, LIDAR, NEOPixel Ring
+    - build sensor board ( will need external power for certain items )
+    - set up RGB camera
+    - set up IR camera
+    - set up lidar
+    - set up NEOPixel
+- Application...  define how the device should act and the different modes of operation
